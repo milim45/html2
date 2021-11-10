@@ -46,6 +46,7 @@ p {
 	letter-spacing: 0.5px;
     line-height: 2em;
     color: #fff;
+    text-align: right;
 }
 
 h4 {
@@ -53,6 +54,7 @@ h4 {
     font-weight: 700;
     color: #fff;
     letter-spacing: 0.5px;
+	 text-align: right;
 }
 
 img {
