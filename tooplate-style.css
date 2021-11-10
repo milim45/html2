@@ -319,7 +319,7 @@ html {
 }
 
 .section-heading .line-dec {
-    max-width: 500px;
+    max-width: 1000px;
     height: 3px;
     background-color: #fff;
     text-align: right;
